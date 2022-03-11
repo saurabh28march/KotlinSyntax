@@ -111,6 +111,12 @@ fun printList() {
         println(i)
     }
 
+    for (i in (1..6).reversed()) {
+        println(i)
+    }
+
+    println((1..10).filter { it % 3 == 0 })
+
     for (i in 10 downTo 4 step 3)
         println(i)
 
@@ -133,6 +139,7 @@ fun printList() {
         val info = getInfo()
         println(info)
     } while (info.isEmpty())
+
 }
 
 fun getInfo(): String {
