@@ -15,6 +15,12 @@ fun main() {
     println(power(base = 4, exp = 5))
     lambda(3) { power(4, 7) }
 
+    //higher order functions
+    println(demo(2, 3, "demoString") { x: Int, str: String -> x.toString() + str })
+
+    //extension function
+    println("demo".modify())
+
     getList("A", "B", "c")
     getList(*arrayOf<String>("A", "V", "T")) // using spread operator '*'
 }
@@ -57,4 +63,11 @@ tailrec fun squareRoot(x: Double) {
     squareRoot(sqrt(x));
 }
 
+//higher order functions -> which takes or return a lambda
+fun demo(x: Int, y: Int, str: String, task: (Int, String) -> String) = task.invoke(x + y, str)
+
+////extension function
+fun String?.modify(): String {
+    return (this + this ?: -1).toString()
+}
 
