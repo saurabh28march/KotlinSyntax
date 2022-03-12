@@ -12,6 +12,8 @@
 /build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len
 /build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len
 /build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at
+/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i
+/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i.len
 /build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab
 /build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream
 /build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len
@@ -19,6 +21,7 @@
 /build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at
 /build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i
 /build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len
+/build/classes/kotlin/main/META-INF/KotlinSyntax.kotlin_module
 /build/kotlin/compileKotlin/last-build.bin
 /build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab
 /build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream
@@ -27,6 +30,8 @@
 /build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at
 /build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i
 /build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len
+/build/classes/kotlin/main/MainKt$main$1.class
+/build/classes/kotlin/main/MainKt.class
 /build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab
 /build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream
 /build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len
