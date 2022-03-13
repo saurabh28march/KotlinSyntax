@@ -15,4 +15,4 @@ code snippets written by me while learning Kotlin
 
 ## Authors
 
-- [@saurabh28march](https://www.github.com/https://github.com/saurabh28march)
+- [@saurabh28march](https://github.com/saurabh28march)
